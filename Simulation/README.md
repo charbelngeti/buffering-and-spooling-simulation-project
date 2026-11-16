@@ -1,7 +1,7 @@
 # Group 8 – Buffering and Spooling Simulation
 
 **Scenario:** University Printing Centre During Exam Week
-**Group 8:** Charbel Ngeti (221441) · Russel Muiga (220510) · Alvin Otanga (220267) · Handel Songoro (220337) · Jesse Kyongo (180904)
+**Group 8:** Charbel Ngeti (221441) · Russel Muiga (220510) · Alvin Otanga (220267) · Handel Songoro (220337) · Jesse Kyongo (180904) · Abigael Wambui (183891)
 
 Five students send documents to one shared printer at almost the same time. Their computers produce print data much faster than the printer can print it. The simulation shows how the operating system copes with this:
 

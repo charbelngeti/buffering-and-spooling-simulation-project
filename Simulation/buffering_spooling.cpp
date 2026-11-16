@@ -5,7 +5,7 @@
 ===============================================================================
  Group members: Charbel Ngeti (221441), Russel Muiga (220510),
                 Alvin Otanga (220267), Handel Songoro (220337),
-                Jesse Kyongo (180904)
+                Jesse Kyongo (180904), Abigael Wambui (183891)
 
  This program is a line-for-line equivalent of buffering_spooling.py.
  Both programs use the same workload, the same rules and the same simulated
@@ -1405,7 +1405,7 @@ void guidedDemo() {
 int main() {
     banner("GROUP 8 - BUFFERING AND SPOOLING: UNIVERSITY PRINTING CENTRE");
     out("  Charbel Ngeti 221441 | Russel Muiga 220510 | Alvin Otanga 220267");
-    out("  Handel Songoro 220337 | Jesse Kyongo 180904");
+    out("  Handel Songoro 220337 | Jesse Kyongo 180904 | Abigael Wambui 183891");
     while (true) {
         out();
         out("  PART A - BUFFERING (moving data from one computer to the printer)");
